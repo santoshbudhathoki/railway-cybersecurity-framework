@@ -1,0 +1,32 @@
+[
+    {
+        "name": "ISCLOCKRUNNING",
+        "userName": "",
+        "inverted": "false",
+        "state": "active"
+    },
+    {
+        "name": "N2S48",
+        "userName": "sensor1",
+        "inverted": "false",
+        "state": "active"
+    },
+    {
+        "name": "N2S49",
+        "userName": "sensor2",
+        "inverted": "false",
+        "state": "inactive"
+    },
+    {
+        "name": "N2S50",
+        "userName": "sensor5",
+        "inverted": "false",
+        "state": "active"
+    },
+    {
+        "name": "N2S51",
+        "userName": "sensor4",
+        "inverted": "false",
+        "state": "inactive"
+    }
+]

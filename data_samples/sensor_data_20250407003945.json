@@ -1,0 +1,32 @@
+[
+    {
+        "name": "ISCLOCKRUNNING",
+        "userName": "",
+        "inverted": "false",
+        "state": "active"
+    },
+    {
+        "name": "N2S48",
+        "userName": "Wheel Sensor",
+        "inverted": "false",
+        "state": "active"
+    },
+    {
+        "name": "N2S49",
+        "userName": "Temperature sensor",
+        "inverted": "false",
+        "state": "inactive"
+    },
+    {
+        "name": "N2S50",
+        "userName": "engine operation",
+        "inverted": "false",
+        "state": "inactive"
+    },
+    {
+        "name": "N2S51",
+        "userName": "track sensor",
+        "inverted": "false",
+        "state": "inactive"
+    }
+]
